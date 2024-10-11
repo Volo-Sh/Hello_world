@@ -6,3 +6,4 @@ int min(void)
   printfn("Hello world\n");
 return 0;
 }
+/*  */
